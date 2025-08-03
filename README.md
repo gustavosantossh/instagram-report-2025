@@ -11,7 +11,6 @@
 
 ```
 git clone https://github.com/gustavosantossh/instagram-report-2025
-
 cd ./instagram-report-2025
 ```
 
