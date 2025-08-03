@@ -1,7 +1,7 @@
 # Instagram Mass Reporting Bot (Bot de denúncia em massa) - 2025 🎯
 
 > [!CAUTION]
-> ```This tool is intended for educational purposes and we are not responsible for any misuse of this code!```
+> ```This tool is intended for educational purposes only, and we are not responsible for any misuse of the code!```
 
 # Requirements
 
@@ -37,4 +37,11 @@ Run the application
 ```
 python main.py
 ```
+
+**warning**
+
+```console
+I would like to inform you that I am not responsible for the misuse of this tool, do not use it for malicious purposes.
+```
+
 
